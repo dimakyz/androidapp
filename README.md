@@ -1,2 +1,2 @@
 # androidapp
-Android massenger application
+Android messenger application
