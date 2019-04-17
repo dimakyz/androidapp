@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+tools:showIn="navigation_view">
+
+<group android:checkableBehavior="single">
+    <item
+        android:id="@+id/nav_profile"
+        android:title="Профиль" />
+    <item
+        android:id="@+id/nav_style"
+        android:title="Соревновательный стиль" />
+    <item
+        android:id="@+id/nav_goal"
+        android:title="Цели" />
+    <item
+        android:id="@+id/nav_media"
+        android:title="Медиа" />
+</group>
+
+<item android:title="Информация">
+    <menu>
+        <item
+            android:id="@+id/nav_anamnesis"
+            android:title="Анамнез" />
+        <item
+            android:id="@+id/nav_additionally"
+            android:title="Дополнительная информация" />
+    </menu>
+</item>
+
+    <item android:title="График">
+        <menu>
+            <item
+                android:id="@+id/nav_training"
+                android:title="Тренировочный" />
+            <item
+                android:id="@+id/nav_information"
+                android:title="Информационный" />
+        </menu>
+    </item>
+
+</menu>

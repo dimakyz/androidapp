@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Athlete</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Пароль</string>
+    <string name="hint_name">ФИО</string>
+    <string name="btn_login">Войти</string>
+    <string name="btn_register">Зарегистрироваться</string>
+    <string name="btn_link_to_register">Зарегистрироваться</string>
+    <string name="btn_link_to_login">Войти</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="btn_logout">Выход</string>
+    <string name="btn_save">Сохранить</string>
+    <string name="name">ФИО</string>
+    <string name="Date">Дата рождения</string>
+    <string name="Sport">Вид спорта</string>
+    <string name="Role">Амплуа</string>
+    <string name="Height">Рост</string>
+    <string name="DateOfCoop">Дата начала сотрудничества</string>
+    <string name="logout">Выход</string>
+    <string name="ChangeDateOfCoop">Изменить дату</string>
+    <string name="take_picture">Picture</string>
+    <string name="start_record">Start</string>
+    <string name="stop_record">Stop</string>
+    <string name="season">Сезон</string>
+    <string name="competitive">Соревновательный стиль</string>
+    <string name="qualities">Сильные качества</string>
+    <string name="zone">Зона улучшения</string>
+    <string name="DateOfZone">Дата</string>
+    <string name="btn_back">Назад</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Name</string>
+    <string name="nav_header_subtitle">Email</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="goal">Личные цели спортсмена</string>
+    <string name="additionally">Дополнительная информация</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_send">Отправить</string>
+
+</resources>

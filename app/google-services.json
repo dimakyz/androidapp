@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "441976667591",
+    "firebase_url": "https://atlchat-a9483.firebaseio.com",
+    "project_id": "atlchat-a9483",
+    "storage_bucket": "atlchat-a9483.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441976667591:android:408d58d52ffcb6d5",
+        "android_client_info": {
+          "package_name": "com.atl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441976667591-tsej32kb3agouca6td6varvt6d54q807.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.atl",
+            "certificate_hash": "46dbfbe0215470727f2e4cc9806498f9c6658505"
+          }
+        },
+        {
+          "client_id": "441976667591-866e22dtop6abscqfabtfnbmh729q77b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXOgAwUWNk3EdEzFCbSjx2vo9yj2v7TnM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441976667591-866e22dtop6abscqfabtfnbmh729q77b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
