@@ -10,4 +10,5 @@
 .externalNativeBuild
 *.jar
 *.war
+*.json
 
